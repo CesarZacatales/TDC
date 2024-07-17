@@ -1,4 +1,4 @@
-# [Tecnicas de simulación en computadoras] - Proyecto final . Ciclo 01/2024
+# [Tecnicas de simulación en computadoras] - Ciclo 01/2024
 
 ## 8balls
 
@@ -37,6 +37,3 @@
   - **Malla fina** Cuenta con 1212 nodos, es para generar un intervalo medio de nodos entre nuestros mallados.
   - **Malla extrafina** Cuenta con 7218 nodos, es nuestro maximo de nodos que nos permitio nuestro modelo para poder generar una malla que pueda
      ser procesada por nuestra codigo y nos permitiera obtener el archivo post.res de los resultados.  
-
-
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/YHymxJIb)
